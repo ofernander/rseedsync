@@ -1,13 +1,1 @@
-########################
-#                        _                      
-#                       | |                     
-# _ __ ___  ___  ___  __| |___ _   _ _ __   ___ 
-#| '__/ __|/ _ \/ _ \/ _` / __| | | | '_ \ / __|
-#| |  \__ \  __/  __/ (_| \__ \ |_| | | | | (__ 
-#|_|  |___/\___|\___|\__,_|___/\__, |_| |_|\___|
-#                               __/ |           
-#                              |___/            
-#
-#Simple script that uses rsync to pull files from a remote seedbox via rsync & ssh
-#https://github.com/0x0f906/rseedsync
-########################
+Simple script that uses rsync to pull files from a remote seedbox via rsync & ssh
